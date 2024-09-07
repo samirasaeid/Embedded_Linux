@@ -59,9 +59,9 @@ Requirements:
         ○ PartTimeEmployee: Has attributes hourlyRate and hoursWorked.
             Overrides calculateSalary() to return hourlyRate * hoursWorked.
         ○ Intern: Has a stipend attribute and overrides calculateSalary() to return
-the stipend.
+            the stipend.
 
-● Polymorphism: Create a function that takes an Employee pointer/reference and prints
-the salary for different employee types.
-Bonus: Add a list to store multiple employees and create methods to add and remove
+    ● Polymorphism: Create a function that takes an Employee pointer/reference and prints
+        the salary for different employee types.
+    Bonus: Add a list to store multiple employees and create methods to add and remove
 employees.
