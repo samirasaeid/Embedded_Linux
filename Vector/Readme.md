@@ -21,19 +21,19 @@ Requirements:
         ○ Add a large catering order, resizing the vector if necessary.
         ○ Optimize the vector's storage after completing some orders.
 ------------------------------------------------------------------------------------
-6. Vector Size Operations:
-    ○ Print the current size, capacity, and maximum possible size of the vector.
+    6. Vector Size Operations:
+        ○ Print the current size, capacity, and maximum possible size of the vector.
 ------------------------------------------------------------------------------------
-8. Max and Min Elements:
-    ○ (Optional) Find and print the least and most complex items in the order list,
-    assuming you have a way to compare their complexity.
+    8. Max and Min Elements:
+        ○ (Optional) Find and print the least and most complex items in the order list,
+        assuming you have a way to compare their complexity.
 ------------------------------------------------------------------------------------
-10. Iterators:
-    ○ Iterate through the orders using normal, reverse, const, and auto iterators.
+    10. Iterators:
+        ○ Iterate through the orders using normal, reverse, const, and auto iterators.
 ------------------------------------------------------------------------------------
-12. Clearing the vector:
-    ○ Clear all orders at the end of the day.
-    ○ Check if the vector is empty.
+    12. Clearing the vector:
+        ○ Clear all orders at the end of the day.
+        ○ Check if the vector is empty.
 ------------------------------------------------------------------------------------
 
 Remember:
