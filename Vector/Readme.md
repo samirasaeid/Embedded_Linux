@@ -4,7 +4,7 @@
     vectors.
 ############################################################################################################################
 Requirements:
-1. Vector Definition and Initialization:
+    1. Vector Definition and Initialization:
     ○ Create an empty vector to represent today's orders.
     ○ Use a fill constructor to create a vector of pre-prepared items.
     ○ Initialize a vector with a customer's order using braced initialization.
