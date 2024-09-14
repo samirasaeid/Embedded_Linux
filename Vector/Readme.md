@@ -10,6 +10,8 @@ Requirements:
         ○ Use a fill constructor to create a vector of pre-prepared items.
         ○ Initialize a vector with a customer's order using braced initialization.
         ○ Copy the customer's order into the main order list.
+
+        
     2. Accessing elements:
        Print the first, last, and third orders using appropriate vector functions.
        
