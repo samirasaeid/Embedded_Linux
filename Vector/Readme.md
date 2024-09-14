@@ -1,4 +1,4 @@
-***************************************Exercise: Managing a Bakery's Daily Orders****************************************
+***************************************Exercise: Managing a Bakery's Daily Orders***************************************
 ---------------------------------------------------------------------------------------------------------------------------
 You're tasked with creating a simple program to help a bakery manage its daily orders using
     vectors.
