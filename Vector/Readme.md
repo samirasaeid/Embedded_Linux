@@ -12,30 +12,29 @@ Requirements:
         ○ Copy the customer's order into the main order list.
 -----------------------------------------------------------------------------------
     2. Accessing elements:
-------------------------------------------------------------------------------------
        Print the first, last, and third orders using appropriate vector functions.
-
+------------------------------------------------------------------------------------
     4. Modifying the vector:
         ○ Add new orders to the end of the list.
         ○ Find and remove a specific order.
         ○ Insert pre-prepared items at the beginning of the order list.
         ○ Add a large catering order, resizing the vector if necessary.
         ○ Optimize the vector's storage after completing some orders.
+------------------------------------------------------------------------------------
 6. Vector Size Operations:
-   
     ○ Print the current size, capacity, and maximum possible size of the vector.
+------------------------------------------------------------------------------------
 8. Max and Min Elements:
-   
     ○ (Optional) Find and print the least and most complex items in the order list,
     assuming you have a way to compare their complexity.
-
+------------------------------------------------------------------------------------
 10. Iterators:
-    
     ○ Iterate through the orders using normal, reverse, const, and auto iterators.
+------------------------------------------------------------------------------------
 12. Clearing the vector:
-    
     ○ Clear all orders at the end of the day.
     ○ Check if the vector is empty.
+------------------------------------------------------------------------------------
 
 Remember:
 
