@@ -6,20 +6,19 @@ You're tasked with creating a simple program to help a bakery manage its daily o
 Requirements:
 
     1. Vector Definition and Initialization:
-    ○ Create an empty vector to represent today's orders.
-    ○ Use a fill constructor to create a vector of pre-prepared items.
-    ○ Initialize a vector with a customer's order using braced initialization.
-    ○ Copy the customer's order into the main order list.
-2. Accessing elements:
-
-   Print the first, last, and third orders using appropriate vector functions.
-4. Modifying the vector:
-   
-    ○ Add new orders to the end of the list.
-    ○ Find and remove a specific order.
-    ○ Insert pre-prepared items at the beginning of the order list.
-    ○ Add a large catering order, resizing the vector if necessary.
-    ○ Optimize the vector's storage after completing some orders.
+        ○ Create an empty vector to represent today's orders.
+        ○ Use a fill constructor to create a vector of pre-prepared items.
+        ○ Initialize a vector with a customer's order using braced initialization.
+        ○ Copy the customer's order into the main order list.
+    2. Accessing elements:
+       Print the first, last, and third orders using appropriate vector functions.
+       
+    4. Modifying the vector:
+        ○ Add new orders to the end of the list.
+        ○ Find and remove a specific order.
+        ○ Insert pre-prepared items at the beginning of the order list.
+        ○ Add a large catering order, resizing the vector if necessary.
+        ○ Optimize the vector's storage after completing some orders.
 6. Vector Size Operations:
    
     ○ Print the current size, capacity, and maximum possible size of the vector.
