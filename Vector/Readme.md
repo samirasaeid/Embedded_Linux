@@ -1,9 +1,10 @@
 /***************************************Exercise: Managing a Bakery's Daily Orders*****************************************/
-############################################################################################################################
-    You're tasked with creating a simple program to help a bakery manage its daily orders using
+---------------------------------------------------------------------------------------------------------------------------
+You're tasked with creating a simple program to help a bakery manage its daily orders using
     vectors.
-############################################################################################################################
+---------------------------------------------------------------------------------------------------------------------------
 Requirements:
+
     1. Vector Definition and Initialization:
     ○ Create an empty vector to represent today's orders.
     ○ Use a fill constructor to create a vector of pre-prepared items.
